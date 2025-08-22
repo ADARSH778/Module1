@@ -10,7 +10,7 @@ To write a Python program to read a string from the user and then print it.
 
 ## 🧾 Program
 ```
-str sentence=input()
+sentence=str(input())
 print(sentence)
 ```
 
